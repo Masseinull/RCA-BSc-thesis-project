@@ -60,7 +60,7 @@ To set up the project environment, follow these steps:
 
 1.  Clone the repository to your local machine:
     ```bash
-    git clone <your-repository-link>
+    git clone https://github.com/Masseinull/RCA-BSc-thesis-project.git
     ```
 2.  Navigate to the project directory:
     ```bash
